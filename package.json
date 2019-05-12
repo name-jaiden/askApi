@@ -1,0 +1,29 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "server": "nodemon ./serverApi"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "askapi-alpha": "^0.0.15",
+    "axios": "^0.18.0",
+    "core-js": "^2.6.5",
+    "nodemon": "^1.19.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vue-template-compiler": "^2.5.21"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
