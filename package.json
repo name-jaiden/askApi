@@ -1,6 +1,6 @@
 {
   "name": "askapi-alpha",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "api management for Vue.js",
   "main": "dist/askapi.common.js",
   "module": "dist/askapi.esm.js",
